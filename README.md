@@ -38,8 +38,9 @@ Add additional notes about how to deploy this on a live system
 
 
 ## Contributing
-
-
+  
+  You cant contribute by cloning from git .ALWAYS create a new branch and work on it.
+  https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging for a guide
 
 ## Versioning
 
@@ -47,7 +48,6 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 
 ## License
